@@ -1,0 +1,70 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-color: #252422;
+}
+.header{
+    text-align: center;
+    border-style: solid;
+    border-radius: 50px;
+    color: #eb5e28;
+
+}
+.header h1{
+    text-transform: uppercase;
+}
+
+.hero-text{
+    text-align: center;
+    color: #eb5e28;
+    border-style: solid;
+    border-radius: 100px 50px;
+}
+
+.hobbies h2{
+    border-style: groove;
+    border-color: #eb5e28;
+    border-radius: 50px 25px;
+   margin-left: 500px;
+   margin-right: 500px;
+    text-align: center;
+    
+    
+}
+.badminton img{
+    width: 200px;
+    height: 230px;
+    border-radius: 50px;
+    box-shadow: 10px 5px;
+}
+.myhobbies-text{
+    color: #ccc5b9;
+    
+}
+.badminton{
+    display: flex;
+    text-align: center;
+    background-color: #eb5e28;
+    margin-right:1500px;
+    border-radius: 50px;
+}
+.badminton div{
+    padding-top: 100px;
+    color: #fffcf2;
+
+}
+.computer{
+    align-items: center;
+    color: #ccc5b9;
+    display: flex;
+    float: right;
+    background-color: #eb5e28;
+    border-radius: 50px;
+}
+
+.computer img{
+    width: 300px;
+    border-radius: 50px 25px;
+}
